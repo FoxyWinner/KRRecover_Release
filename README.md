@@ -47,7 +47,7 @@ Finally, open SuperSU on your Android phone or emulator, click "New User" and up
 
 (Click continue)
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/root_2.png" alt="root_2" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_2.png" alt="root_2" style="zoom:50%;" />
 
 (Click normal)
 
@@ -121,7 +121,7 @@ After opening the ransomware:
 
 Wait for the ransomware to be forced to stop by KRRecover, then open KRRecover and click the decryption button:
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_3.png" alt="KRRecover_3" style="zoom: 25%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_3.png" alt="KRRecover_3" width="375" />
 
 ![KRRecover_4](https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_4.png)
 
