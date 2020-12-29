@@ -1,0 +1,20 @@
+{
+  "plugins":[
+    {
+      "plugin_name":"printStack",
+      "opend":false
+    },
+    {
+      "plugin_name":"writeLog",
+      "opend":true
+    },
+    {
+      "plugin_name":"hookReflect",
+      "opend":true
+    },
+     {
+      "plugin_name":"hookClassLoader",
+      "opend":false
+    }
+  ]
+}

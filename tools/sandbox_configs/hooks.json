@@ -1,0 +1,282 @@
+{
+    "hookConfigs": [
+        {
+            "class_name": "android.util.Base64", 
+            "method": "encode", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "android.util.Base64", 
+            "method": "encodeToString", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.spec.SecretKeySpec", 
+            "method": null, 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "doFinal", 
+            "thisObject": true, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Mac", 
+            "method": "doFinal", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "getInstance", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.spec.SecretKeySpec", 
+            "method": "init", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "init", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getDataDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getDownloadCacheDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getExternalStorageDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getExternalStorageState", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+       
+        {
+            "class_name": "android.content.res.Resources", 
+            "method": "openRawResource", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+       
+        {
+            "class_name": "android.util.Base64", 
+            "method": "encode", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "android.util.Base64", 
+            "method": "encodeToString", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.spec.SecretKeySpec", 
+            "method": null, 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "doFinal", 
+            "thisObject": true, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Mac", 
+            "method": "doFinal", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+       
+        {
+            "class_name": "libcore.io.IoBridge", 
+            "method": "open", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.content.ContentValues", 
+            "method": "put", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": null, 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "createNewFile", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "createTempFile", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "delete", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "list", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "listFiles", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "listRoots", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.File", 
+            "method": "renameTo", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.OutputStream", 
+            "method": "null", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.FileOutputStream", 
+            "method": "java.io.FileOutputStream", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.FileOutputStream", 
+            "method": "FileOutputStream", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.io.FileOutputStream", 
+            "method": "null", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.content.ContextWrapper", 
+            "method": "deleteFile", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.content.ContextWrapper", 
+            "method": "fileList", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.net.URI.HierachicalURI", 
+            "method": "create", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.net.URI.HierachicalURI", 
+            "method": "resolve", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.net.URI", 
+            "method": "create", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "java.net.URI", 
+            "method": "resolve", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "getInstance", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.spec.SecretKeySpec", 
+            "method": "init", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "javax.crypto.Cipher", 
+            "method": "init", 
+            "thisObject": false, 
+            "type": "crypto"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getDataDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getDownloadCacheDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getExternalStorageDirectory", 
+            "thisObject": false, 
+            "type": "file"
+        }, 
+        {
+            "class_name": "android.os.Environment", 
+            "method": "getExternalStorageState", 
+            "thisObject": false, 
+            "type": "file"
+        }
+    
+    ], 
+    "trace": false
+}
+
