@@ -43,11 +43,11 @@ setenforce 0
 
 Finally, open SuperSU on your Android phone or emulator, click "New User" and update the binary file to complete root:
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_1.png" alt="root_1" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_1.png" alt="root_1" style="zoom:50%;" /></div>
 
 (Click continue)
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_2.png" alt="root_2" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_2.png" alt="root_2" style="zoom:50%;" /></div>
 
 (Click normal)
 
@@ -61,11 +61,11 @@ adb install ../Xposed_installerforAndroid4.0-4.4.apk
 
 Then open it, click *Framwork*, ignore all warnings, and then click *Install/Update* to grant root and ultimately install the Xposed framework.
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_1.png" alt="xposed_1" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_1.png" alt="xposed_1" style="zoom:50%;" /></div>
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_2.png" alt="xposed_2" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_2.png" alt="xposed_2" style="zoom:50%;" /></div>
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_3.png" alt="xposed_3" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_3.png" alt="xposed_3" style="zoom:50%;" /></div>
 
 ### 3. Install the sandbox, put  the configuration file in the specified location, and activate the sandbox module
 
@@ -84,7 +84,7 @@ adb -e push ../plugin.json /data/local/tmp
 
 Activate the sandbox module in Xposed Installer - modules:
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/activate.png" alt="activate" style="zoom:50%;" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/activate.png" alt="activate" style="zoom:50%;" /></div>
 
 Reboot the device.
 
@@ -121,7 +121,7 @@ After opening the ransomware:
 
 Wait for the ransomware to be forced to stop by KRRecover, then open KRRecover and click the decryption button:
 
-<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_3.png" alt="KRRecover_3" width="375" />
+<div align=center><img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_3.png" alt="KRRecover_3" width="375" /></div>
 
 ![KRRecover_4](https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_4.png)
 
