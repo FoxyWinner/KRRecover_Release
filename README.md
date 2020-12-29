@@ -61,11 +61,11 @@ adb install ../Xposed_installerforAndroid4.0-4.4.apk
 
 Then open it, click *Framwork*, ignore all warnings, and then click *Install/Update* to grant root and ultimately install the Xposed framework.
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/xposed_1.png" alt="xposed_1" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_1.png" alt="xposed_1" style="zoom:50%;" />
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/xposed_2.png" alt="xposed_2" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_2.png" alt="xposed_2" style="zoom:50%;" />
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/xposed_3.png" alt="xposed_3" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/xposed_3.png" alt="xposed_3" style="zoom:50%;" />
 
 ### 3. Install the sandbox, put  the configuration file in the specified location, and activate the sandbox module
 
@@ -84,7 +84,7 @@ adb -e push ../plugin.json /data/local/tmp
 
 Activate the sandbox module in Xposed Installer - modules:
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/activate.png" alt="activate" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/activate.png" alt="activate" style="zoom:50%;" />
 
 Reboot the device.
 
@@ -113,15 +113,15 @@ For example, you can install ransomware and KRRecover will pop up to ask the use
 
 Before opening the ransomware:
 
-![KRRecover_0](/Users/foxywinner/Desktop/KRRecover_release/readme_images/KRRecover_0.png)
+![KRRecover_0](https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_0.png)
 
 After opening the ransomware:
 
-![KRRecover_2](/Users/foxywinner/Desktop/KRRecover_release/readme_images/KRRecover_2.png)
+![KRRecover_2](https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_2.png)
 
 Wait for the ransomware to be forced to stop by KRRecover, then open KRRecover and click the decryption button:
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/KRRecover_3.png" alt="KRRecover_3" style="zoom: 25%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_3.png" alt="KRRecover_3" style="zoom: 25%;" />
 
-![KRRecover_4](/Users/foxywinner/Desktop/KRRecover_release/readme_images/KRRecover_4.png)
+![KRRecover_4](https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/KRRecover_4.png)
 
