@@ -43,7 +43,7 @@ setenforce 0
 
 Finally, open SuperSU on your Android phone or emulator, click "New User" and update the binary file to complete root:
 
-<img src="/Users/foxywinner/Desktop/KRRecover_release/readme_images/root_1.png" alt="root_1" style="zoom:50%;" />
+<img src="https://github.com/FoxyWinner/KRRecover_Release/blob/master/readme_images/root_1.png" alt="root_1" style="zoom:50%;" />
 
 (Click continue)
 
