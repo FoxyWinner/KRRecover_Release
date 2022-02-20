@@ -1,4 +1,5 @@
 # KRRecover_Release @Author 侯俊杰
+KRRecover是子母APK的开发形式。母APK开发源码：https://github.com/FoxyWinner/KRRecover 子APK开发源码：https://github.com/FoxyWinner/KRRecover_Sub
 KRRecover is a tool for ransomware recovery. Here are its installation package, operating environment and operating instructions
 
 ## What is KRRecover
