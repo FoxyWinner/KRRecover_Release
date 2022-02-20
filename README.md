@@ -1,4 +1,4 @@
-# KRRecover_Release
+# KRRecover_Release @Author 侯俊杰
 KRRecover is a tool for ransomware recovery. Here are its installation package, operating environment and operating instructions
 
 ## What is KRRecover
