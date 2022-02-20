@@ -1,7 +1,7 @@
 # KRRecover_Release
 KRRecover is a tool for ransomware recovery. Here are its installation package, operating environment and operating instructions
 
-##What is KRRecover
+## What is KRRecover
 
 KRRecover maintains a list of suspicious applications (suspected ransomware) with the user. If KRRecover finds that an application in the list of suspicious applications is running, it will detect the behavior of the suspicious applications during operation and forcibly stop the suspicious applications if necessary.Then, if the ransoming has already taken place, KRRecover will help the user's phone unlock the screen, lock the password and unlock the files encrypted by the ransomware.
 
